@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://t.me/ArduinoLogy"><img src="telegram-channel.svg" height="48" alt="Telegram: My channel" /></a>
+  <a href="https://t.me/ArduinoLogy"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" alt="Telegram @ArduinoLogy" title="Telegram @ArduinoLogy" align="absmiddle" /></a>&nbsp;
+  <a href="https://t.me/ArduinoLogy">My channel</a>
 </p>
 
   
@@ -82,7 +83,8 @@
 <p align="center"  style="margin: 35px 0;">
   <b></b><br>
 <p align="center">
-  <a href="https://t.me/FedorKkudrin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50" alt="Telegram" title="Telegram" align="middle" /></a>&nbsp;<a href="https://t.me/FedorKkudrin">DM</a>
+  <a href="https://t.me/FedorKkudrin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" alt="Telegram @FedorKkudrin" title="Telegram @FedorKkudrin" align="absmiddle" /></a>&nbsp;
+  <a href="https://t.me/FedorKkudrin">DM</a>
 </p>
 
 <div align="center">

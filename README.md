@@ -19,8 +19,8 @@
   An online component configurator for electric vehicles: scooters, motorcycles and mopeds.<br>
 </p>
 
-<!-- Screenshot slot: upload a screenshot of https://ir00nman.github.io/EV_builder/ to assets/ev-builder.png in your GitHub profile repository, then uncomment the next line. -->
-<!-- <p align="center"><a href="https://ir00nman.github.io/EV_builder/"><img src="assets/ev-builder.png" alt="EV_builder configurator screenshot" width="80%" /></a></p> -->
+<img width="1470" height="922" alt="image" src="https://github.com/user-attachments/assets/f1698acb-b271-402a-8af5-88044a6ed0e9" />
+
 
 <p align="center">
   <a href="https://ir00nman.github.io/EV_builder/"><img src="https://img.shields.io/badge/Live-Open-FF6A2B?style=for-the-badge" alt="Open EV_builder" /></a>&nbsp;
@@ -32,9 +32,8 @@
 <p align="center">
   A browser-based CAM tool that turns a GRBL CNC machine into a pen plotter.<br>
 </p>
+<img width="2490" height="1595" alt="collage_transparent" src="https://github.com/user-attachments/assets/aaaae101-2dac-414e-8e5f-49740b02d683" />
 
-<!-- Screenshot slot: upload a screenshot of https://ir00nman.github.io/PenCam/ to assets/pencam.png in your GitHub profile repository, then uncomment the next line. -->
-<!-- <p align="center"><a href="https://ir00nman.github.io/PenCam/"><img src="assets/pencam.png" alt="PenCAM interface screenshot" width="80%" /></a></p> -->
 
 <p align="center">
   <a href="https://ir00nman.github.io/PenCam/"><img src="https://img.shields.io/badge/Live-Open-FF6A2B?style=for-the-badge" alt="Open PenCAM" /></a>&nbsp;

@@ -55,9 +55,10 @@
   <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" title="Raspberry Pi" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" title="Arduino" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://docs.espressif.com/projects/esp-idf/"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/espressif.svg" width="40" height="40" alt="ESP-IDF" title="ESP-IDF" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.vesclabs.com/"><img src="Vesc.png" width="100"  alt="VESC" title="VESC" style="vertical-align: mid;" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.far-driver.com/"><img src="Fardriver.png" width="140" alt="FarDriver" title="FarDriver" style="vertical-align: 5px;" /></a>
+  <a href="https://vesclabs.com"><img src="Vesc.png" width="130" height="50" alt="VESC" title="VESC" align="bottom" /></a>&nbsp;&nbsp;&nbsp; 
+  <a href="https://far-driver.com"><img src="Fardriver.png" width="155" height="45" alt="FarDriver" title="FarDriver" align="bottom" /></a>
 </p>
+
 
 <p align="center">
   <b></b><br>

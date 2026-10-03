@@ -1,11 +1,8 @@
-
 <p align="center">
-  <a href="https://t.me/ArduinoLogy"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" alt="Telegram @ArduinoLogy" title="Telegram @ArduinoLogy" style="vertical-align: middle;" /></a>&nbsp;
-  <a href="https://t.me/ArduinoLogy" style="vertical-align: middle;">My channel</a>
+  <a href="https://t.me/ArduinoLogy"><img src="telegram-channel.svg" height="48" alt="Telegram: My channel" /></a>
 </p>
----
 
-
+  
 <h2 align="center"> About me</h2>
 
 <p align="center">
@@ -69,25 +66,23 @@
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" /></a>
 </p>
 
-<p align="center" style="margin: 40px 0; text-align: center;"
-
-
-
+<p align="center" style="margin: 40px 0; text-align: center;">
+<b></b><br>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" /></a>
 </p>
 
-<p align="center"  style="margin: 40px 0;
+<p align="center"  style="margin: 40px 0;">
   <b></b><br>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-light.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" /></picture></a>
 </p>
-
-
-<p align="center"  style="margin: 35px 0;
-  <a href="https://t.me/FedorKkudrin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" alt="Telegram" title="Telegram" style="vertical-align: middle;" /></a>&nbsp;<a href="https://t.me/FedorKkudrin" style="vertical-align: middle;">DM me</a>
+<p align="center"  style="margin: 35px 0;">
+  <b></b><br>
+<p align="center">
+  <a href="https://t.me/FedorKkudrin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50" alt="Telegram" title="Telegram" align="middle" /></a>&nbsp;<a href="https://t.me/FedorKkudrin">DM</a>
 </p>
 
 <div align="center">
